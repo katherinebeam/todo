@@ -2,3 +2,49 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+form {
+  text-align: center;
+  background-color: rgba(112,112,112,.5);
+  padding: 2em 2em 1em 2em;
+  color: lightblue;
+  /*margin-top: 5em;*/
+}
+
+h3 {
+  text-align: center;
+  letter-spacing: .25em;
+  font-size: 2.5em;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+#error_explanation {
+  color: white;
+  font-family: sans-serif;
+}
+
+.item_name {
+  font-size: 20px;
+}
+
+button {
+  padding: 1em;
+  font-size: 14px;
+  color: lightblue;
+  background: white;
+  border: 1px solid white;
+  border-radius: 20%;
+}
+
+.descript {
+    font-size: 20px;
+}
+
+input {
+  padding: .7em;
+  font-size: 14px;
+  color: lightblue;
+  background: white;
+  border: 1px solid white;
+  border-radius: 0%;
+}
